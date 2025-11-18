@@ -1,3 +1,5 @@
+bc68233 Task 2.2
+ec79bb4 Task 2.1
 a561232 Task 2.1
 690404c Task 1.2
 f251beb Task 1.1
